@@ -1,1 +1,1 @@
-# ICT-WEBSITE-CLONE
+# harvard-clone
